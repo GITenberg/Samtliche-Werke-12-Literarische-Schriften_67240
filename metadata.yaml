@@ -1,0 +1,91 @@
+_repo: Samtliche-Werke-12-Literarische-Schriften_67240
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowsky, Dmitry de
+    - Mérejkowski, Dmitri
+    - Mereschkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    - Merejkowski, Dmitri
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+  - agent_name: Strakhov, N. (Nikolai)
+    aliases:
+    - Страхов, Николай Николаевич
+    - Strakhov, Nikolai Nikolaevich
+    - Strachow, Nikolai Nikolajewitsch
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '54168'
+    url: http://www.gutenberg.org/2009/agents/54168
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Nikolai_Nikolajewitsch_Strachow
+    - https://en.wikipedia.org/wiki/Nikolay_Strakhov
+  translator:
+    agent_name: Rahsin, E. K.
+    aliases:
+    - Разин, Э. К.
+    - Rahsin, Less
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+    wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Достоевский, Фёдор Михайлович
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoyevsky, Fyodor Mikhailovich
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  editor:
+    agent_name: Moeller van den Bruck, Arthur
+    aliases:
+    - Van den Bruck, Arthur Moeller
+    - Den Bruck, Arthur Moeller van
+    - Bruck, Arthur Moeller van den
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+    - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+description: ''
+gutenberg_issued: '2022-01-24'
+identifiers:
+  gutenberg: '67240'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/njp.32101048555203
+pgterms:marc905: 20180111012403dostojewsk
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: Germany :Piper,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian literature -- Translations into German'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881'
+- !lcc 'PG'
+- GITenberg
+title: 'Sämtliche Werke 12: Literarische Schriften'
+url: http://www.gutenberg.org/ebooks/67240
