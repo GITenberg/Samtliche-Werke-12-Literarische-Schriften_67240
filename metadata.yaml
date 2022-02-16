@@ -37,6 +37,9 @@ contributor:
     gutenberg_agent_id: '49851'
     url: http://www.gutenberg.org/2009/agents/49851
     wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+covers:
+- cover_type: archival
+  image_path: 67240-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -68,6 +71,8 @@ creator:
     - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
     - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67240#Samtliche-Werke-12-Literarische-Schriften
 gutenberg_issued: '2022-01-24'
 identifiers:
   gutenberg: '67240'
